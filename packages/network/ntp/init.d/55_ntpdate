@@ -1,0 +1,7 @@
+# update time using ntpdate
+#
+# runlevels: openelec, textmode
+
+  (
+	ntpdate tik.cesnet.cz
+  )&
